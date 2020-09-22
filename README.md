@@ -13,3 +13,6 @@
 	5. {STATS - ID}: gets a list of all commands used by the client identified by the ID.
 - Provide a simple Graphical User Interface to allow a user access the system. 
 - Code with detailed comments.
+
+**Example:**
+![example](https://github.com/Tiffanyzth/Distributed-Systems-Socket-Programming-Chat-application-in-Java/blob/master/img.png)
